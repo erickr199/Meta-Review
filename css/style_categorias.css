@@ -1,0 +1,55 @@
+#Categorias_page{
+  background-color: #2E2E2E;
+  box-shadow: 10px 10px 0px #000;
+  margin: 100px;
+  margin-top: 20px;
+  margin-bottom:0px;
+  text-align:center;
+}
+
+#Categorias_page img{
+  width:170px;
+  height:259px;
+  border: 4px solid rgb(119, 119, 119);
+}
+#categorias_chart_music img{
+  width:200px;
+  height:200px;
+  border: 4px solid rgb(119, 119, 119);
+}
+
+#Categorias_page .Item{
+  position: relative;
+  text-align: center;
+  margin:10px;
+  padding: 10px;
+  display:inline-block;
+  text-decoration:none;
+  font-family:sans-serif; 
+  color: white;
+  font-size: 20px;
+}
+
+#Categorias_page .Item:hover {
+  transition: transform 0.5s;
+  transform: scale(1.01);
+  background-color: rgb(135, 197, 42);
+  /*box-shadow: 0 0 20px #4f9;*/
+}
+
+#Categorias_page .Item p{
+  max-width: 210px;
+  overflow-wrap: break-word;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color:white;
+}
+
+
+
+#Categorias_page .row{
+display: block;
+
+}
