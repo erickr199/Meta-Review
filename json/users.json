@@ -1,0 +1,38 @@
+{
+    "ale": {
+        "id": "5fbdb191e40cd",
+        "username": "ale",
+        "password": "ale",
+        "nombre": "ale",
+        "apellidos": "ale",
+        "birthday": "2020-11-19",
+        "usertype": "1"
+    },
+    "alelo": {
+        "id": "5fbdb1a316f98",
+        "username": "alelo",
+        "password": "alelo",
+        "nombre": "alelo",
+        "apellidos": "alelo",
+        "birthday": "2020-11-11",
+        "usertype": "2"
+    },
+    "erick_cg": {
+        "id": "5fbedd61efad5",
+        "username": "erick_cg",
+        "password": "erick123",
+        "nombre": "Erick",
+        "apellidos": "Castelazo",
+        "birthday": "1999-06-19",
+        "usertype": "2"
+    },
+    "juan123": {
+        "id": "5fc14f0736e8d",
+        "username": "juan123",
+        "password": "juan123",
+        "nombre": "Juan",
+        "apellidos": "Lopez",
+        "birthday": "1997-09-17",
+        "usertype": "2"
+    }
+}
